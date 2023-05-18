@@ -1,0 +1,43 @@
+.borde{
+    border-radius: 40px;
+}
+
+.bienve{
+    background-color: rgba(38, 0, 255, 0.288);
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.xam{
+    background-color: rgba(127, 255, 212, 0.61);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.app{
+    background-color: rgba(226, 192, 43, 0.253);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.sql{
+    background-color: rgba(165, 42, 42, 0.219);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.video{
+    background-color: bisque;
+}
+
+.fondo{
+    background-color: rgba(0, 0, 255, 0.205);
+}
+
+.alo{
+    background-color: rgba(1, 175, 39, 0.37);
+}
+
+.miguel{
+    background-color: rgba(226, 43, 67, 0.226);
+}
+
+.pla{
+    background-color: rgba(206, 19, 19, 0.521);
+}
